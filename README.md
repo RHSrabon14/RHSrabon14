@@ -29,12 +29,19 @@
   <span>
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" height="200" style="display:inline-block;"/>
   </span>
+  <span>
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="AI" height="200" style="display:inline-block;"/>
+  </span>
 </p>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- About Me Section -->
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About Me***
+
+<table align="center">
+<tr>
+<td width="70%">
 
 - 🎓 **BCSE Student** at **International University of Business Agriculture and Technology (IUBAT)**
 - 💻 Passionate **Full-Stack Developer** (MERN Stack)
@@ -44,6 +51,16 @@
 - 📫 Reach me at **22103029@iubat.edu**
 - ⚡ Fun fact: **I turn coffee into code ☕→💻**
 
+</td>
+<td width="30%">
+  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="150"/>
+</td>
+</tr>
+</table>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<!-- Connect with Me -->
 <h2 align="left">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30">
   <b>Connect with Me</b>
@@ -59,6 +76,9 @@
   <a href="mailto:22103029@iubat.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://www.hackerrank.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
+  </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
@@ -69,13 +89,16 @@
 <!-- Skills Section -->
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">&nbsp;***Skill Set***
 
+<!-- Programming Languages -->
 <h3 align="left">💻 Programming Languages</h3>
 <p align="left">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+  <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
 </p>
 
+<!-- Web Development -->
 <h3 align="left">🌐 Web Development</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
@@ -85,21 +108,27 @@
   <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>
   <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /></a>
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /></a>
 </p>
 
+<!-- IoT & Hardware -->
 <h3 align="left">📡 IoT & Hardware</h3>
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" /></a>
 </p>
 
+<!-- Tools & Others -->
 <h3 align="left">🛠️ Tools & Others</h3>
 <p align="left">
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
 </p>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -187,7 +216,7 @@
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/NSDA-Python%20Level--4-FF6B00?style=for-the-badge" width="250"/><br>
-        <small><b>Web Application Development with Python Level-4</b></small><br><br>
+        <small><b>Web App Development with Python Level-4</b></small><br><br>
         <a href="https://github.com/RHSrabon14/RHSrabon14/blob/main/assets/nsda_python.pdf" target="_blank">
           <img src="https://img.shields.io/badge/📄_View_PDF-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
         </a>
@@ -196,17 +225,27 @@
         </a>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/More-Certificates-00D1FF?style=for-the-badge" width="250"/><br>
-        <small><b>Coming Soon...</b></small>
+        <img src="https://img.shields.io/badge/IBM-Data%20Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white" width="250"/><br>
+        <small><b>Intro to Data Science</b></small><br><br>
+        <a href="https://github.com/RHSrabon14/RHSrabon14/blob/main/assets/intro_data_science.pdf" target="_blank">
+          <img src="https://img.shields.io/badge/📄_View_PDF-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+        </a>
+        <a href="https://raw.githubusercontent.com/RHSrabon14/RHSrabon14/main/assets/intro_data_science.pdf" download>
+          <img src="https://img.shields.io/badge/⬇️_Download-FF0000?style=for-the-badge&logo=download&logoColor=white"/>
+        </a>
       </td>
     </tr>
   </table>
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆_Total_Certificates-9-00D1FF?style=for-the-badge" />
+</p>
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<!-- Featured Project -->
-## 🔥 Featured Project
+<!-- Featured Projects -->
+## 🔥 Featured Projects
 
 ### 🚌 Smart IUBAT Bus Tracking & Passenger Monitoring System
 
@@ -216,11 +255,16 @@
   <img src="https://img.shields.io/badge/YOLO-Object%20Detection-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GPS-NEO--6M-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SIM800L-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
 </div>
 
 <p align="center">
-  <i>Developed an IoT-based smart transportation system for IUBAT students</i>
+  <i>🚀 Developed an IoT-based smart transportation system for IUBAT students</i>
 </p>
+
+<table align="center">
+<tr>
+<td>
 
 **✨ Features:**
 - 📍 Live bus location tracking using GPS NEO-6M
@@ -229,21 +273,35 @@
 - 🌐 SIM800L internet communication
 - 💻 Web dashboard for students
 
-**🛠️ Technologies Used:**
+</td>
+<td>
 
+**🛠️ Tech Stack:**
+- ESP32-CAM
+- YOLO
+- GPS NEO-6M
+- SIM800L
+- JavaScript
+- Web Technologies
+
+</td>
+</tr>
+</table>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- GitHub Stats -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***GitHub Stats***
 
-<!-- This will show once you have repositories and commits -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RHSrabon14&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <!-- GitHub Stats Cards -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RHSrabon14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A1A" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=RHSrabon14&theme=tokyonight&hide_border=true&background=0A0A1A" alt="GitHub Streak"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RHSrabon14&theme=tokyonight" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RHSrabon14&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0A0A1A" alt="Top Languages"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RHSrabon14&theme=github_dark&utcOffset=6" alt="Productive Time"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RHSrabon14&layout=compact&langs_count=8&theme=tokyonight&card_width=500" alt="Top Languages"/>
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RHSrabon14&theme=github_dark" alt="Profile Details"/>
 </div>
 
 <!-- Fallback message - visible only when stats are loading -->
@@ -260,21 +318,7 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<!-- Development Activity -->
-<h2 align="left">
-  <img src="https://media.giphy.com/media/11GdWkX5qBr3gA/giphy.gif" width="30">
-  &nbsp; <b>Development Activity</b>
-</h2>
-
-<div align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RHSrabon14&theme=github_dark" alt="Profile Details"/>
-</div>
-
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RHSrabon14&theme=github_dark" alt="GitHub Stats Summary"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RHSrabon14&theme=github_dark&utcOffset=6" alt="Productive Time"/>
-</p>
-
+<!-- GitHub Trophies & Contributions -->
 <h2 align="left">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30">
   &nbsp; <b>GitHub Trophies</b>
@@ -290,7 +334,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RHSrabon14&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RHSrabon14&theme=github-dark&hide_border=true&bg_color=0A0A1A&color=00D1FF&line=00FFD1&point=00D1FF" alt="GitHub Contribution Graph"/>
 </p>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -301,29 +345,27 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" width="16.6%">
         <img src="https://media.giphy.com/media/3o7abKhOpu0N9H8lKc/giphy.gif" width="60"><br>
-        <b>AI & Machine Learning</b>
+        <b>AI & ML</b>
       </td>
-      <td align="center">
+      <td align="center" width="16.6%">
         <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="60"><br>
-        <b>Computer Networks</b>
+        <b>Networks</b>
       </td>
-      <td align="center">
+      <td align="center" width="16.6%">
         <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="60"><br>
         <b>Cybersecurity</b>
       </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td align="center" width="16.6%">
         <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="60"><br>
-        <b>IoT Solutions</b>
+        <b>IoT</b>
       </td>
-      <td align="center">
+      <td align="center" width="16.6%">
         <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60"><br>
-        <b>Full-Stack Dev</b>
+        <b>Full-Stack</b>
       </td>
-      <td align="center">
+      <td align="center" width="16.6%">
         <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="60"><br>
         <b>HCI</b>
       </td>
@@ -336,14 +378,33 @@
 <!-- Let's Collaborate -->
 ## 🎯 Let's Collaborate
 
-💡 Feel free to **explore my repositories**, **contribute to projects**, or **reach out to me** for collaboration! Let's build amazing things together! 🚀
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/LnQjpWaON8nZ21sj5c/giphy.gif" width="100">
+      </td>
+      <td>
+        <h3>💡 Let's Build Something Amazing Together!</h3>
+        <p>Feel free to <b>explore my repositories</b>, <b>contribute to projects</b>, or <b>reach out</b>!</p>
+        <a href="mailto:22103029@iubat.edu">
+          <img src="https://img.shields.io/badge/📧_Email_Me-Now-00D1FF?style=for-the-badge" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- Footer -->
 ### 💡 Motto
 
-> *"Technology should solve real-world problems and create a positive impact on people's lives."*
+<div align="center">
+  <blockquote>
+    <i>"Technology should solve real-world problems and create a positive impact on people's lives."</i>
+  </blockquote>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -351,7 +412,13 @@
 
 ---
 
-### 🔥 Designed with ❤️ by [Rashedul Hasan Srabon](https://github.com/RHSrabon14)
+<div align="center">
+  <img src="https://img.shields.io/badge/🔥_Designed_with_❤️_by-Rashedul_Hasan_Srabon-00D1FF?style=for-the-badge" />
+  <br><br>
+  <img src="https://img.shields.io/badge/📅_Last_Updated-August_2026-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/📊_Total_Repositories-3-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/🏆_Certificates-9-success?style=flat-square" />
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80&fontColor=ffffff"/>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
