@@ -18,7 +18,7 @@
 
 <!-- Animated Typing Subtitle -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=BCSE+Student+%7C+IUBAT;Full-Stack+Web+Developer;Networking+%26+AI+Enthusiast;IoT+Solutions+Builder;Always+Learning+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=BCSE+Student+%7C+IUBAT;Full-Stack+Web+Developer;IoT+%26+AI+Enthusiast;Building+Real-World+Solutions;Always+Learning+%F0%9F%9A%80" alt="Typing SVG"/>
 </h3>
 
 <!-- Decorative Line -->
@@ -44,8 +44,9 @@
 <td width="70%">
 
 - 🎓 **BCSE Student** at **International University of Business Agriculture and Technology (IUBAT)**
-- 💻 Passionate **Full-Stack Developer** (MERN Stack)
-- 🌐 Exploring **Networking**, **Cybersecurity**, **AI**, and **IoT**
+- 💻 Passionate **Full-Stack Developer** (MERN Stack) & **IoT Solutions Builder**
+- 🏥 Building **healthcare & safety tech** — recently developed **ElderSafe**, an IoT monitoring system for elderly care
+- 🌐 Exploring **Networking**, **Cybersecurity**, **AI**, and **Embedded Systems**
 - 📊 Skilled in **Microsoft Word**, **Excel**, and **PowerPoint**
 - 🔍 Always learning new technologies and solving real-world problems through software
 - 📫 Reach me at **22103029@iubat.edu**
@@ -109,6 +110,7 @@
   <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /></a>
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
   <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
 </p>
 
 <!-- IoT & Hardware -->
@@ -116,8 +118,13 @@
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MAX30102-Heart%20%26%20SpO2-FF6B6B?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MC--38-Door%20Sensor-4B8BBE?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MPU6050-Gyroscope-FFB300?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GPS-NEO--6M-34A853?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/SIM800L-FF5722?style=for-the-badge" /></a>
 </p>
 
 <!-- Tools & Others -->
@@ -246,6 +253,48 @@
 
 <!-- Featured Projects -->
 ## 🔥 Featured Projects
+
+### 🏥 ElderSafe – Smart Elder Monitoring System
+
+<div align="center">
+  <img src="https://img.shields.io/badge/FastAPI-Python-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-Sensors-00D1FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fall_Detection-Gyroscope-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Heart_Monitoring-MAX30102-pink?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" />
+</div>
+
+<p align="center">
+  <i>🚀 IoT-based health & safety monitoring system for elderly people living alone</i>
+</p>
+
+<table align="center">
+<tr>
+<td>
+
+**✨ Features:**
+- 🫀 **Heart rate & SpO₂ monitoring** using MAX30102 sensor
+- 🚪 **Washroom anomaly detection** with MC-38 door sensor (alerts if stay > 2 hours)
+- 🚶 **Fall detection** using MPU6050 gyroscope
+- 🚨 **Automated alerts** sent to relatives during emergencies
+- 📊 **Live web dashboard** (FastAPI) for real-time health data
+
+</td>
+<td>
+
+**🛠️ Tech Stack:**
+- FastAPI (Python)
+- MAX30102 (Heart & SpO₂)
+- MC-38 (Door Sensor)
+- MPU6050 (Gyroscope)
+- JavaScript
+- Web Dashboard
+
+</td>
+</tr>
+</table>
+
+---
 
 ### 🚌 Smart IUBAT Bus Tracking & Passenger Monitoring System
 
@@ -418,6 +467,7 @@
   <img src="https://img.shields.io/badge/📅_Last_Updated-August_2026-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/📊_Total_Repositories-3-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/🏆_Certificates-9-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/🚀_Featured_Projects-2-00D1FF?style=flat-square" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80&fontColor=ffffff"/>
