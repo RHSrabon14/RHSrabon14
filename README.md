@@ -49,7 +49,7 @@
 - 🌐 Exploring **Networking**, **Cybersecurity**, **AI**, and **Embedded Systems**
 - 📊 Skilled in **Microsoft Word**, **Excel**, and **PowerPoint**
 - 🔍 Always learning new technologies and solving real-world problems through software
-- 📫 Reach me at **22103029@iubat.edu**
+- 📫 Reach me at **rhsrabon19@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code ☕→💻**
 
 </td>
